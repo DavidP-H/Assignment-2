@@ -12,16 +12,16 @@ body {
   margin: 10%;
 }
 
-#TimHeader {
+#timheader {
   font-family: 'Orelega One', cursive;
 }
 
-#TimParentsImage {
+#timparentsimage {
   border-style: ridge;
   border-color: white;
 }
 
-#TimParents {
+#timparents {
   border-style: solid;
   border-color: white;
   padding-top: 30px;
