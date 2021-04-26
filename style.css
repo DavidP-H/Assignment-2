@@ -1,0 +1,45 @@
+body {
+  background-image: url('images/gradient.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+.all {
+  text-align: center;
+  color: White;
+  font-size: 150%;
+  font-family: 'Oswald', sans-serif;
+  margin: 10%;
+  }
+
+#TimHeader {
+font-family: 'Orelega One', cursive;
+  }
+
+#TimParentsImage {
+  border-style: ridge;
+  border-color: White;
+}
+
+#TimParents {
+  border-style: solid;
+  border-color: White;
+  padding-top: 30px;
+  margin-right: 30%;
+  margin-left: 30%;
+}
+
+#tim {
+  width: 25%;
+  height: 25%;
+  border-color: White;
+  border-radius: 50%;
+  border-style: solid;
+  }
+
+#quote {
+  font-family: 'Antonio', sans-serif;
+  font-size: 250%;
+  margin: 20%;
+  }
+      
